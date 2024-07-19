@@ -1,0 +1,2 @@
+# SSB_AUTOMATIONS_WD_TASK-03
+Blog page

@@ -20,6 +20,10 @@ This project is an interactive blog page featuring dynamic elements such as hove
 * The custom cursor is implemented with JavaScript and the GSAP library, providing smooth and interactive movement.
 * The navigation menu and social media icons are styled using CSS and Font Awesome for the icons.
 
+## Testing🚀
+
+![Blog page](https://raw.githubusercontent.com/EurydiceReverie/SSB_AUTOMATIONS_WD_TASK-03/main/Assets/Blog.mp4)
+
 ## Conclusion
 
 This project showcases a blog page with interactive elements and smooth animations, enhancing the user experience.     
